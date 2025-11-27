@@ -1,1 +1,1 @@
-Power BI projects by Pusanapong Rungtiparkornpaisan
+Data Analysis projects by Pusanapong Rungtiparkornpaisan
